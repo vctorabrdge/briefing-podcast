@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morning Intelligence Briefing</title>
+    <description>Daily AI-generated morning briefing covering SaaS trends, African investment opportunities, fintech M&A, aviation/eVTOL, and geopolitical context.</description>
+    <link>https://github.com/vctorabrdge/briefing-podcast</link>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jan 2026 07:46:28 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/vctorabrdge/briefing-podcast/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Morning Briefing Automation</itunes:author>
+    <itunes:summary>Daily AI-generated morning intelligence briefing podcast.</itunes:summary>
+    <itunes:category text="Business">
+      <itunes:category text="Business News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[Morning Briefing - Tuesday, January 20, 2026]]></title>
+      <description><![CDATA[Daily AI-generated morning intelligence briefing covering SaaS trends, African investment opportunities, fintech M&A, aviation/eVTOL, and geopolitical context for Tuesday, January 20, 2026.]]></description>
+      <pubDate>Tue, 20 Jan 2026 07:46:18 GMT</pubDate>
+      <enclosure url="https://drive.google.com/file/d/1xI2FucRlIn_i0tXxyNbPfr-n9yXh9KqE/download?usp=drivesdk" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">briefing-20260120074445</guid>
+    </item>
+  </channel>
+</rss>
